@@ -1,0 +1,2 @@
+# buyma-images
+image cache
